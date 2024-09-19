@@ -1,1 +1,1 @@
-The sourced codes and datasets of Hyperspectral modeling of colored dissolved organic matter (CDOM): Insights from machine learning and semi analytical models.Please quote correctly during use, thank you.
+The source codes and datasets for Hyperspectral Modeling of Colored Dissolved Organic Matter (CDOM): Insights from Machine Learning and Semi-Analytical Models are available for download from Branch 1 and Branch 2, respectively. When using these resources, please ensure proper citation. Thank you for your cooperation.
